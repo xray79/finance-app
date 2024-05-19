@@ -1,4 +1,4 @@
-import React, { FC, useEffect, useState } from 'react';
+import { FC, useEffect, useState } from 'react';
 import './CompanyProfile.css';
 import { CompanyKeyMetrics } from '../../company';
 import { useOutletContext } from 'react-router';

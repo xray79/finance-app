@@ -1,4 +1,4 @@
-import React, { FC } from 'react';
+import { FC } from 'react';
 import './DesignPage.css';
 import Table from '../../Components/Table/Table';
 import RatioList from '../../Components/RatioList/RatioList';

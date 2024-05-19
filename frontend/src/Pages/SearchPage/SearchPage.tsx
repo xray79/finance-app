@@ -1,9 +1,7 @@
 import { ChangeEvent, FC, SyntheticEvent, useState } from 'react';
 import './SearchPage.css';
 import CardList from '../../Components/CardList/CardList';
-import Hero from '../../Components/Hero/Hero';
 import ListPortfolio from '../../Components/ListPortfolio/ListPortfolio';
-import Navbar from '../../Components/Navbar/Navbar';
 import Search from '../../Components/Search/Search';
 import { searchCompanies } from '../../api';
 import { CompanySearch } from '../../company';

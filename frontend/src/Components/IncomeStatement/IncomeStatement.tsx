@@ -1,4 +1,4 @@
-import React, { FC, useEffect, useState } from 'react';
+import { FC, useEffect, useState } from 'react';
 import './IncomeStatement.css';
 import { CompanyIncomeStatement } from '../../company';
 import { useOutletContext } from 'react-router';

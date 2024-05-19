@@ -2,9 +2,7 @@ import { Link } from "react-router-dom";
 import logo from "../..//assets/logo.png";
 import "./Navbar.css";
 
-interface Props { }
-
-const Navbar = (props: Props) => {
+const Navbar = () => {
   return (
     <nav className="relative container mx-auto p-6">
       <div className="flex items-center justify-between">
